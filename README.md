@@ -1,4 +1,4 @@
-# Nome do projeto
+# 42 São Paulo
 
 <img src="fase1.png" alt="projetos realizados">
 
