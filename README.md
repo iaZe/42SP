@@ -1,6 +1,8 @@
 # 42 São Paulo
 
-<img src="fase1.png" alt="projetos realizados">
+<div align="center" style="display: inline_block">  
+  <img src="fase1.png" height="300em" alt="projetos realizados">
+</div>
 
 > Projetos realizados durante o período que estive na 42 São Paulo. Projetos feitos em C e Shell, com o objetivo de aprender a programar e a utilizar o Git.
 
